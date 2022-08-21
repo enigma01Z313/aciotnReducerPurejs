@@ -1,0 +1,20 @@
+{
+  "name": "aciotnReducerPurejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "dispatch": "nodemon index2.js",
+    "async": "nodemon index3.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
+
+
+
